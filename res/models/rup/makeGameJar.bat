@@ -1,0 +1,1 @@
+jar cmf manifest.txt SimSERUP.jar com org simse\adts\actions\*.class simse\adts\objects\*.class simse\engine\*.class simse\explanatorytool\*.class simse\gui\icons simse\gui\images simse\gui\*.class simse\logic\*.class simse\logic\dialogs\*.class simse\state\*.class simse\state\logger\*.class simse\util\*.class simse\*.class
